@@ -1,0 +1,71 @@
+/* ********************** Login styling ends ************************* */
+.claim_login {
+    text-align: left;
+}
+.claim_login .form-group {
+    margin-bottom: 5px;
+}
+.claim_pswd {
+    padding: 40px;
+}
+.claim_pswd h2 {
+    margin: 0;
+    font-size: 26px;
+    color: #000;
+}
+.claim_login h4 {
+    padding: 20px 0 7px 0;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+}
+.login_btn {
+    width: 100%;
+    background: #1c9f49;
+    color: #fff;
+    padding: 7px;
+    margin-top: 20px;
+    border: 1px solid #1c9f49;
+    border-radius: 0px;
+}
+.forgot_btn {
+    width: 100%;
+    background: #f2f2f2;
+    color: #000;
+    padding: 7px;
+    border: 1px solid #000;
+    border-radius: 0px;
+    display: block;
+    text-align: center;
+    text-decoration: none !important;
+}
+.form-group input:focus {
+    outline: none !important;
+}
+.form-group input {
+    border: 1px solid #000;
+    border-radius: 0px;
+}
+.form-group input::placeholder {
+    color: #000;
+}
+.claim_login hr {
+    border-top: 2px solid #000;
+}
+.law-dashboard {
+    margin-block: 100px 50px;
+}
+.transfer-points button {
+    width: auto;
+    padding-inline: 20px;
+}
+/* ********************** Login styling ends ************************* */
+
+@media only screen and (max-width: 992px) {
+    .law-dashboard {
+        margin-block: 0px;
+    }
+    .transfer-right-div {
+        padding: 0;
+    }
+}

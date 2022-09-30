@@ -1,0 +1,63 @@
+.alert {
+    position: absolute;
+    z-index: 999999;
+}
+.field_services div {
+    position: relative;
+    margin-bottom: 10px;
+}
+.field_services a {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+}
+.field_services a img {
+    width: 20px;
+}
+
+.field_facility div {
+    position: relative;
+    margin-bottom: 10px;
+}
+.field_facility a {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+}
+.field_facility a img {
+    width: 20px;
+}
+
+
+
+.field_image div {
+    position: relative;
+    margin-bottom: 10px;
+}
+.field_image a {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+}
+.field_image a img {
+    width: 20px;
+}
+
+.admin-vendor-custom div {
+    position: relative;
+}
+
+.admin-vendor-custom div .close {
+    background: #F3B95A;
+    color: #fff;
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    opacity: 1;
+}

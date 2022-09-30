@@ -1,0 +1,16 @@
+.admin-sidebar-wrapper .brand-link{
+    padding: .8125rem 1.5rem;
+}
+.admin-sidebar-wrapper .sidebar .nav-item a.nav-link span{
+    width: 18px;
+    display: inline-block;
+}
+.admin-sidebar-wrapper .sidebar .nav-item a.nav-link p{
+    margin-left: 6px;
+}
+.card-body .pagination{
+    justify-content: flex-end;
+}
+.d-none{
+    display: none !important;
+}
